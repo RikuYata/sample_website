@@ -4,3 +4,50 @@
   .nav-spacing{
     margin: 0 0 0 10px;;
   }
+
+  .image-link{
+    text-decoration: none;
+  }
+
+  .list-data{
+    padding: 20px;
+  }
+
+  .header-md{
+    text-align: center; 
+    margin: 0 0 80px;
+  }
+
+  .img-whales{
+    display: block; 
+    margin: 0 auto;
+  }
+
+  .img-md{
+    height: 200px;
+    float: left;
+    margin-right: 40px;
+  }
+.bc-md{
+    font-style: italic; 
+    font-size: 20px;
+}
+
+.bc-md span{
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ff0000;
+}
+
+.head-2{
+    width: 560px; 
+    margin: 20px auto; 
+    padding: 30px;
+     background-color: #fafafa;
+}
+
+.bc-index{
+    padding: 2px 20px; 
+    background: #fafafa;
+}
